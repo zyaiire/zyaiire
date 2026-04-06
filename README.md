@@ -10,13 +10,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer working on AI/ML projects, weather monitoring systems, and data pipelines. Based in Asia, I focus on building scalable, production-ready applications following the "glue coding" principle—reusing mature solutions and keeping custom code minimal and focused.
+I'm **Shize Li**, a graduate student at **Institute of PUMC (北京协和医学院)** interested in AI. I focus on building practical, production-ready applications — from data pipelines to intelligent systems — following the "glue coding" principle: reuse mature solutions, keep custom code minimal.
+
+Based in China, I combine biomedical research with modern software engineering to solve real-world problems.
 
 ### 🎯 Current Focus
-- 🌦️ **Weather Monitor**: Real-time weather prediction & market data pipeline
+- 🌦️ **Weather Monitor**: Real-time weather prediction & Polymarket data pipeline
 - 🤖 **AI & Data**: Building intelligent systems with clean architecture
-- 📊 **Full-stack**: From backend APIs to interactive dashboards
-- 🔗 **MCP Integration**: Working with Model Context Protocol
+- 📊 **Full-stack**: Backend APIs, interactive dashboards, data visualization
+- 🧬 **Biomedical AI**: Bridging medicine and technology
 
 ---
 
@@ -25,15 +27,15 @@ I'm a passionate developer working on AI/ML projects, weather monitoring systems
 **Languages:**
 - Python (primary)
 - TypeScript / JavaScript
-- Swift (iOS)
 - SQL
 
 **Frameworks & Tools:**
 - FastAPI / Flask (backend)
 - React (frontend)
 - Docker & DevOps
-- PostgreSQL / Redis
+- PostgreSQL
 - GitHub Actions (CI/CD)
+- Modern Python packaging with `uv`
 
 **Principles:**
 - Clean Architecture
@@ -122,7 +124,7 @@ I believe in:
   
   ⭐ If you find my projects useful, consider giving them a star!
   
-  Made with ❤️ in Asia
+  Made with ❤️ in China
   
 </div>
 
